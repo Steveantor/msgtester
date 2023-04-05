@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: webiny/action-conventional-commits@v1.1.0
+      - uses: steveantor/action-conventional-commits@v1.1.3
